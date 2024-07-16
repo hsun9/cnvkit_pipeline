@@ -89,4 +89,4 @@ perl src/cnvkit_seg2gene.v2.pl merged.cnvkit_segment.tsv -o cnvkit_seg.gene.out
 
 
 ## Contact
-Hua Sun (hua.sun@wustl.edu)
+Hua Sun, <hua.sun229@gmail.com>  (2017.11 - 2022.3 <hua.sun@wustl.edu>)
